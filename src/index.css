@@ -101,12 +101,11 @@ nav .nav-menu{
 
 footer{
     background-color: var(--banner-color);
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+    color: var(--seasalt-color);
 }
 .copyright{
     align-self: center;
+    text-align: center;
 }
 /* home page */
 #home-container{

@@ -1,11 +1,14 @@
-import React from "react";
-
+import { Container ,Row} from "reactstrap";
 const Footer = () =>{
     return(
-        <footer>
-            <small class="copyright jura">
-                &copy; Copyright Christiane Villaroel
-            </small>
+        <footer className="footer">
+            <Container>
+                <Row>
+                    <small class="col copyright jura">
+                        &copy; Copyright Christiane Villaroel
+                    </small>
+                </Row>
+            </Container>
         </footer>
     )
 

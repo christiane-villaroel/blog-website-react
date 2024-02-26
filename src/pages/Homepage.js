@@ -22,6 +22,7 @@ const Homepage = ()=>{
                             <li>Movie News</li>
                             <li>Telvision</li>
                             <li>Latest Comics</li>
+                            <li>Gaming</li>
                         </ul>
                     </div>  
                 </main>
